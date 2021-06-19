@@ -1,0 +1,9 @@
+D:\repos\MyEcoMod\MyEcoMod\MyEcoMod\bin\Debug\netcoreapp3.1\MyEcoMod.deps.json
+D:\repos\MyEcoMod\MyEcoMod\MyEcoMod\bin\Debug\netcoreapp3.1\MyEcoMod.dll
+D:\repos\MyEcoMod\MyEcoMod\MyEcoMod\bin\Debug\netcoreapp3.1\MyEcoMod.pdb
+D:\repos\MyEcoMod\MyEcoMod\MyEcoMod\obj\Debug\netcoreapp3.1\MyEcoMod.csproj.AssemblyReference.cache
+D:\repos\MyEcoMod\MyEcoMod\MyEcoMod\obj\Debug\netcoreapp3.1\MyEcoMod.AssemblyInfoInputs.cache
+D:\repos\MyEcoMod\MyEcoMod\MyEcoMod\obj\Debug\netcoreapp3.1\MyEcoMod.AssemblyInfo.cs
+D:\repos\MyEcoMod\MyEcoMod\MyEcoMod\obj\Debug\netcoreapp3.1\MyEcoMod.csproj.CoreCompileInputs.cache
+D:\repos\MyEcoMod\MyEcoMod\MyEcoMod\obj\Debug\netcoreapp3.1\MyEcoMod.dll
+D:\repos\MyEcoMod\MyEcoMod\MyEcoMod\obj\Debug\netcoreapp3.1\MyEcoMod.pdb
